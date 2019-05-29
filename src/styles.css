@@ -23,3 +23,14 @@ body {
 .keyCode small {
   font-size: 0.5em;
 }
+
+.author {
+  font-size: 12px;
+  position: absolute;
+  bottom: 10px;
+}
+
+.author a {
+  text-decoration: none;
+  color: #61dbfb;
+}

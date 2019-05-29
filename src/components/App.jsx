@@ -3,7 +3,6 @@ import useKeyEvents from "../helper/useKeyEvents";
 
 const App = () => {
   const [keyProps] = useKeyEvents("");
-  console.log(keyProps);
 
   const instructionText = () => {
     return "Press any key";
@@ -20,7 +19,18 @@ const App = () => {
   };
 
   return (
-    <div className="keyCode">{keyProps ? keyCode() : instructionText()}</div>
+    <div className="keyCode">
+      {keyProps ? keyCode() : instructionText()}
+      <div className="author">
+        with{" "}
+        <span role="img" aria-label="code love">
+          ❤️
+        </span>
+        <a target="_blanc" href="https://github.com/pranesh239">
+          Pranesh
+        </a>
+      </div>
+    </div>
   );
 };
 
