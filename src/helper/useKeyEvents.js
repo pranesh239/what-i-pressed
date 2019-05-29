@@ -4,10 +4,11 @@ const useKeyEvents = initialState => {
   const [keyProps, setKeyProps] = useState(initialState || "");
 
   useEffect(() => {
-    document.addEventListener("keyup", e => {
+    document.addEventListener("keydown", e => {
+      if (e.keyCode === 9) e.preventDefault();
       setKeyProps(e);
     });
-  });
+  }, []);
   return [keyProps];
 };
 
