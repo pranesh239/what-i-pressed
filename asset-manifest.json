@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/what-i-pressed/static/css/main.4ae14d0d.chunk.css",
-    "main.js": "/what-i-pressed/static/js/main.5e1da3f1.chunk.js",
-    "main.js.map": "/what-i-pressed/static/js/main.5e1da3f1.chunk.js.map",
-    "runtime~main.js": "/what-i-pressed/static/js/runtime~main.49dbac74.js",
-    "runtime~main.js.map": "/what-i-pressed/static/js/runtime~main.49dbac74.js.map",
-    "static/js/2.f09c5d3d.chunk.js": "/what-i-pressed/static/js/2.f09c5d3d.chunk.js",
-    "static/js/2.f09c5d3d.chunk.js.map": "/what-i-pressed/static/js/2.f09c5d3d.chunk.js.map",
-    "index.html": "/what-i-pressed/index.html",
-    "precache-manifest.5f6373fb6c5e2bc5add4ba5904a1c6dc.js": "/what-i-pressed/precache-manifest.5f6373fb6c5e2bc5add4ba5904a1c6dc.js",
-    "service-worker.js": "/what-i-pressed/service-worker.js",
-    "static/css/main.4ae14d0d.chunk.css.map": "/what-i-pressed/static/css/main.4ae14d0d.chunk.css.map"
+    "main.css": "/whatIPressed/static/css/main.4ae14d0d.chunk.css",
+    "main.js": "/whatIPressed/static/js/main.5e1da3f1.chunk.js",
+    "main.js.map": "/whatIPressed/static/js/main.5e1da3f1.chunk.js.map",
+    "runtime~main.js": "/whatIPressed/static/js/runtime~main.75e7de01.js",
+    "runtime~main.js.map": "/whatIPressed/static/js/runtime~main.75e7de01.js.map",
+    "static/js/2.f09c5d3d.chunk.js": "/whatIPressed/static/js/2.f09c5d3d.chunk.js",
+    "static/js/2.f09c5d3d.chunk.js.map": "/whatIPressed/static/js/2.f09c5d3d.chunk.js.map",
+    "index.html": "/whatIPressed/index.html",
+    "precache-manifest.64f9a6d4a32ffd62a74c8c988af0f2f3.js": "/whatIPressed/precache-manifest.64f9a6d4a32ffd62a74c8c988af0f2f3.js",
+    "service-worker.js": "/whatIPressed/service-worker.js",
+    "static/css/main.4ae14d0d.chunk.css.map": "/whatIPressed/static/css/main.4ae14d0d.chunk.css.map"
   }
 }
